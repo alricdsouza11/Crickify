@@ -1,0 +1,209 @@
+================ FULL MATCH REPORT ================
+
+=== FULL MATCH REPORT ===
+
+--- Inning 1 ---
+
+=== Detailed Report for Mumbai Indians ===
+
+Predicted Batting Momentum for Mumbai Indians: 49.30 / 100
+Predicted Bowling Momentum for Sunrisers Hyderabad (i.e. Mumbai Indians's fielding): 50.70 / 100
+
+=== Batting Scorecard ===
+=== Batter Scorecard ===
+Batter: RG Sharma
+  Live: Total Runs = 18, Balls Faced = 13, Strike Rate = 138.46
+  Boundaries: 3 fours, 0 sixes
+  Recent (last 5 balls) Avg Runs = 1.20
+  Historical (for Mumbai Indians) - Total Runs = 3472.0, Balls Faced = 2619.0, Strike Rate = 132.57
+  Insight: Batting performance is in line with historical trends.
+
+Batter: Ishan Kishan
+  Live: Total Runs = 84, Balls Faced = 33, Strike Rate = 254.55
+  Boundaries: 11 fours, 4 sixes
+  Recent (last 5 balls) Avg Runs = 1.80
+  Historical (for Mumbai Indians) - Total Runs = 1089.0, Balls Faced = 847.0, Strike Rate = 128.57
+  Insight: Batting performance is in line with historical trends.
+
+Batter: HH Pandya
+  Live: Total Runs = 10, Balls Faced = 9, Strike Rate = 111.11
+  Boundaries: 0 fours, 1 sixes
+  Recent (last 5 balls) Avg Runs = 0.20
+  Historical (for Mumbai Indians) - Total Runs = 1362.0, Balls Faced = 959.0, Strike Rate = 142.02
+  Insight: Strike rate is 30.9 points lower than historical average.
+
+Batter: KA Pollard
+  Live: Total Runs = 13, Balls Faced = 14, Strike Rate = 92.86
+  Boundaries: 1 fours, 0 sixes
+  Recent (last 5 balls) Avg Runs = 0.80
+  Historical (for Mumbai Indians) - Total Runs = 1818.0, Balls Faced = 1331.0, Strike Rate = 136.59
+  Insight: Strike rate is 43.7 points lower than historical average.
+
+....
+
+Batter: TA Boult
+  Did not bat
+  Historical (for Mumbai Indians) - Total Runs = 62.0, Balls Faced = 49.0, Strike Rate = 126.53
+  Insight: Strike rate is 126.5 points lower than historical average.
+
+
+=== Bowling Scorecard (Opposing Team) ===
+=== Bowler Scorecard ===
+Bowler: JJ Roy
+  Did not bowl
+
+Bowler: Abhishek Sharma
+  Live: Runs Conceded = 5, Overs (legal) = 1.1, Economy = 4.29, Wickets = 2
+  Historical (against Sunrisers Hyderabad) - Economy = 7.64, Wickets = 6.0
+
+Bowler: MK Pandey
+  Did not bowl
+
+Bowler: Mohammad Nabi
+  Live: Runs Conceded = 33, Overs (legal) = 3.0, Economy = 11.00, Wickets = 0
+  Historical (against Sunrisers Hyderabad) - Economy = 6.65, Wickets = 6.0
+
+Bowler: Abdul Samad
+  Did not bowl
+
+Bowler: PK Garg
+  Did not bowl
+
+Bowler: JO Holder
+  Live: Runs Conceded = 52, Overs (legal) = 4.3, Economy = 11.56, Wickets = 4
+  Historical (against Sunrisers Hyderabad) - Economy = 7.97, Wickets = 38.0
+
+Bowler: Rashid Khan
+  Live: Runs Conceded = 41, Overs (legal) = 4.0, Economy = 10.25, Wickets = 2
+  Historical (against Sunrisers Hyderabad) - Economy = 6.7, Wickets = 71.0
+
+Bowler: WP Saha
+  Did not bowl
+
+Bowler: S Kaul
+  Live: Runs Conceded = 56, Overs (legal) = 4.0, Economy = 14.00, Wickets = 0
+  Historical (against Sunrisers Hyderabad) - Economy = 9.06, Wickets = 33.0
+
+Bowler: Umran Malik
+  Live: Runs Conceded = 48, Overs (legal) = 4.1, Economy = 11.52, Wickets = 1
+  Historical (against Sunrisers Hyderabad) - Economy = 9.1, Wickets = 18.0
+
+
+=== Over-by-Over Metrics ===
+Over 2: Runs = 8.0, Valid Balls = 6, Wickets = 0, Over Run Rate = 8.00
+...
+Over 20: Runs = 13.0, Valid Balls = 7, Wickets = 0, Over Run Rate = 11.14
+
+=== Last Ball Details ===
+Last Over: 20
+Last Bowler: JO Holder
+On-Strike Batter: JJ Bumrah
+Non-Striker: TA Boult
+
+
+Overall Momentum Scores (Innings 1):
+Predicted Momentum for Mumbai Indians (batting, innings 1): 49.30 / 100
+Predicted Momentum for Sunrisers Hyderabad (bowling, innings 1): 50.70 / 100
+
+--- Inning 2 ---
+
+=== Detailed Report for Sunrisers Hyderabad ===
+
+Predicted Batting Momentum for Sunrisers Hyderabad: 46.74 / 100
+Predicted Bowling Momentum for Mumbai Indians (i.e. Sunrisers Hyderabad's fielding): 53.26 / 100
+
+=== Batting Scorecard ===
+=== Batter Scorecard ===
+Batter: JJ Roy
+  Live: Total Runs = 34, Balls Faced = 22, Strike Rate = 154.55
+  Boundaries: 6 fours, 0 sixes
+  Recent (last 5 balls) Avg Runs = 1.20
+  Historical (for Sunrisers Hyderabad) - Total Runs = 342.0, Balls Faced = 220.0, Strike Rate = 155.45
+  Insight: Batting performance is in line with historical trends.
+
+Batter: Abhishek Sharma
+  Live: Total Runs = 33, Balls Faced = 16, Strike Rate = 206.25
+  Boundaries: 4 fours, 1 sixes
+  Recent (last 5 balls) Avg Runs = 1.60
+  Historical (for Sunrisers Hyderabad) - Total Runs = 467.0, Balls Faced = 367.0, Strike Rate = 127.25
+  Insight: Batting performance is in line with historical trends.
+
+Batter: Abdul Samad
+  Live: Total Runs = 2, Balls Faced = 3, Strike Rate = 66.67
+  Boundaries: 0 fours, 0 sixes
+  Recent (last 5 balls) Avg Runs = 0.67
+  Historical (for Sunrisers Hyderabad) - Total Runs = 186.0, Balls Faced = 146.0, Strike Rate = 127.4
+  Insight: Strike rate is 60.7 points lower than historical average.
+
+Batter: PK Garg
+  Live: Total Runs = 2, Balls Faced = 3, Strike Rate = 66.67
+  Boundaries: 0 fours, 0 sixes
+  Recent (last 5 balls) Avg Runs = 0.67
+  Historical (for Sunrisers Hyderabad) - Total Runs = 104.0, Balls Faced = 104.0, Strike Rate = 100.0
+  Insight: Strike rate is 33.3 points lower than historical average.
+
+Batter: JO Holder
+  Did not bat
+  Historical (for Sunrisers Hyderabad) - Total Runs = 151.0, Balls Faced = 129.0, Strike Rate = 117.05
+  Insight: Strike rate is 117.0 points lower than historical average.
+...
+
+
+=== Bowling Scorecard (Opposing Team) ===
+=== Bowler Scorecard ===
+Bowler: RG Sharma
+  Did not bowl
+
+Bowler: Ishan Kishan
+  Did not bowl
+
+Bowler: HH Pandya
+  Did not bowl
+
+Bowler: KA Pollard
+  Did not bowl
+
+Bowler: SA Yadav
+  Did not bowl
+
+Bowler: JDS Neesham
+  Live: Runs Conceded = 14, Overs (legal) = 2.0, Economy = 7.00, Wickets = 2
+  Historical (against Mumbai Indians) - Economy = 9.72, Wickets = 3.0
+...
+Bowler: TA Boult
+  Live: Runs Conceded = 15, Overs (legal) = 2.0, Economy = 7.50, Wickets = 1
+  Historical (against Mumbai Indians) - Economy = 7.98, Wickets = 61.0
+
+
+=== Over-by-Over Metrics ===
+Over 2: Runs = 5.0, Valid Balls = 6, Wickets = 0, Over Run Rate = 5.00
+...
+Over 11: Runs = 5.0, Valid Balls = 6, Wickets = 1, Over Run Rate = 5.00
+
+=== Last Ball Details ===
+Last Over: 10
+Last Bowler: JDS Neesham
+On-Strike Batter: PK Garg
+Non-Striker: MK Pandey
+
+
+Overall Momentum Scores (Innings 2):
+Predicted Momentum for Sunrisers Hyderabad (batting, innings 2): 50.42 / 100
+Predicted Momentum for Mumbai Indians (bowling, innings 2): 49.58 / 100
+
+
+================ GPT RECOMMENDATIONS ================
+
+Recommendations for the Batting Team - Sunrisers Hyderabad:
+
+1. Topic: Rotating Strike
+   Action: Players like Mohammad Nabi, Abdul Samad, and PK Garg have shown a lower strike rate than their historical average. They should focus on rotating the strike more frequently to maintain the run rate and pressure on the bowling side.
+   Purpose: To increase the run rate and maintain the momentum of the innings.
+...
+
+Recommendations for the Bowling Team - Mumbai Indians:
+
+1. Topic: Economy Rate
+   Action: Bowlers like KH Pandya, NM Coulter-Nile, PP Chawla, and JJ Bumrah have higher economy rates than their historical averages. They should focus on bowling tight lines and lengths to restrict the scoring opportunities.
+   Purpose: To control the run flow and maintain pressure on the opposition.
+...

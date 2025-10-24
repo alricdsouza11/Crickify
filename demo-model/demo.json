@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-10-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Abu Dhabi",
+    "dates": [
+      "2021-10-08"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 55
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "V Narayan Kutty"
+      ],
+      "reserve_umpires": [
+        "UV Gandhe"
+      ],
+      "umpires": [
+        "Tapan Sharma",
+        "VK Sharma"
+      ]
+    },
+    "outcome": {
+      "winner": "Mumbai Indians",
+      "by": {
+        "runs": 42
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Ishan Kishan"
+    ],
+    "players": {
+      "Mumbai Indians": [
+        "RG Sharma",
+        "Ishan Kishan",
+        "HH Pandya",
+        "KA Pollard",
+        "SA Yadav",
+        "JDS Neesham",
+        "KH Pandya",
+        "NM Coulter-Nile",
+        "PP Chawla",
+        "JJ Bumrah",
+        "TA Boult"
+      ],
+      "Sunrisers Hyderabad": [
+        "JJ Roy",
+        "Abhishek Sharma",
+        "MK Pandey",
+        "Mohammad Nabi",
+        "Abdul Samad",
+        "PK Garg",
+        "JO Holder",
+        "Rashid Khan",
+        "WP Saha",
+        "S Kaul",
+        "Umran Malik"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abdul Samad": "8e514b4c",
+        "Abhishek Sharma": "f29185a1",
+        "HH Pandya": "dbe50b21",
+        "Ishan Kishan": "752f7486",
+        "JDS Neesham": "9219eff0",
+        "JJ Bumrah": "462411b3",
+        "JJ Roy": "d1c36f5c",
+        "JO Holder": "0f721006",
+        "KA Pollard": "a757b0d8",
+        "KH Pandya": "5b8c830e",
+        "MK Pandey": "93b4fc78",
+        "Mohammad Nabi": "62af8546",
+        "NM Coulter-Nile": "56ab442f",
+        "PK Garg": "bb965e9a",
+        "PP Chawla": "98ae73b1",
+        "RG Sharma": "740742ef",
+        "Rashid Khan": "5f547c8b",
+        "S Kaul": "dcf81436",
+        "SA Yadav": "271f83cd",
+        "TA Boult": "a818c1be",
+        "Tapan Sharma": "b9aa2b6e",
+        "UV Gandhe": "43dd4011",
+        "Umran Malik": "81c08fa3",
+        "V Narayan Kutty": "4bacee3d",
+        "VK Sharma": "a7a49df4",
+        "WP Saha": "fe11caa6"
+      }
+    },
+    "season": "2021",
+    "team_type": "club",
+    "teams": [
+      "Mumbai Indians",
+      "Sunrisers Hyderabad"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Mumbai Indians"
+    },
+    "venue": "Zayed Cricket Stadium, Abu Dhabi"
+  },
+  "innings": [
+    {
+      "team": "Mumbai Indians",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "S Kaul",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "S Kaul",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "S Kaul",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "S Kaul",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "S Kaul",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "S Kaul",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

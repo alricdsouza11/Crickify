@@ -1,0 +1,83 @@
+import json
+import pandas as pd
+import numpy as np
+from sklearn.preprocessing import LabelEncoder, StandardScaler
+import joblib
+from tensorflow.keras.models import load_model
+
+# ----------- 1. Load Test JSON ----------- #
+with open('1426303.json', 'r') as f:
+    data = json.load(f)
+
+innings = data['innings']
+rows = []
+match_id = 999999
+
+for inning in innings:
+    batting_team = inning['team']
+    bowling_team = [team for team in data['info']['teams'] if team != batting_team][0]
+    overs = inning['overs']
+
+    for over_data in overs:
+        over_num = over_data['over']
+        for delivery in over_data['deliveries']:
+            row = {}
+            row['Match ID'] = match_id
+            row['Venue'] = data['info']['venue']
+            row['Bat First'] = batting_team
+            row['Bat Second'] = bowling_team
+            row['Innings'] = 1 if batting_team == data['info']['teams'][0] else 2
+            row['Over'] = over_num
+            row['Ball'] = over_data['deliveries'].index(delivery) + 1
+            row['Batter'] = delivery['batter']
+            row['Non Striker'] = delivery['non_striker']
+            row['Bowler'] = delivery['bowler']
+            row['Batter Runs'] = delivery['runs']['batter']
+            row['Extra Runs'] = delivery['runs']['extras']
+            row['Wicket'] = 1 if 'wickets' in delivery else 0
+            rows.append(row)
+
+df = pd.DataFrame(rows)
+
+# ----------- 2. Label Encoding ----------- #
+categorical_columns = ['Venue', 'Bat First', 'Bat Second', 'Batter', 'Non Striker', 'Bowler']
+
+for column in categorical_columns:
+    le = joblib.load(f'label_encoder_{column}.pkl')
+    df[column] = le.transform(df[column].astype(str))
+
+# ----------- 3. Feature Engineering ----------- #
+df['Cumulative Runs'] = df.groupby(['Match ID', 'Innings'])['Batter Runs'].cumsum()
+df['Cumulative Wickets'] = df.groupby(['Match ID', 'Innings'])['Wicket'].cumsum()
+df['Balls Bowled'] = df.groupby(['Match ID', 'Innings']).cumcount() + 1
+df['Run Rate'] = df['Cumulative Runs'] / (df['Balls Bowled'] / 6)
+
+# Assuming target score (dummy for demo)
+df['Target Score'] = 180
+df['Remaining Runs'] = df['Target Score'] - df['Cumulative Runs']
+df['Remaining Overs'] = (120 - df['Balls Bowled']) / 6
+df['Required Run Rate'] = df['Remaining Runs'] / df['Remaining Overs']
+df.replace([np.inf, -np.inf], 0, inplace=True)
+
+# ----------- 4. Scaling ----------- #
+features = ['Over', 'Ball', 'Batter', 'Non Striker', 'Bowler', 'Batter Runs', 'Extra Runs', 'Wicket',
+            'Cumulative Runs', 'Cumulative Wickets', 'Run Rate', 'Required Run Rate', 'Balls Bowled']
+
+scaler = joblib.load('scaler.pkl')
+df[features] = scaler.transform(df[features])
+
+# ----------- 5. Prepare Sequence ----------- #
+X_data = df[features].values
+sequence_length = 30
+momentum_scores = []
+
+model = load_model('cricket_momentum_lstm_model.h5')
+
+for i in range(sequence_length, len(X_data)):
+    sequence = X_data[i-sequence_length:i]
+    sequence = np.expand_dims(sequence, axis=0)
+    momentum = model.predict(sequence, verbose=0)
+    momentum_scores.append(momentum[0][0])
+
+print(f"Momentum Scores for {data['info']['teams'][0]} innings:")
+print(momentum_scores)

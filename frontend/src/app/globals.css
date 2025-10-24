@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --background-start-rgb: 240, 240, 245;
+  --background-end-rgb: 255, 255, 255;
+  --primary-color: 79, 70, 229;
+  --secondary-color: 219, 39, 119;
+}
+
+.dark {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+  --background-start-rgb: 0, 0, 0;
+  --background-end-rgb: 30, 30, 30;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  background: linear-gradient(
+    to bottom,
+    rgb(var(--background-start-rgb)),
+    rgb(var(--background-end-rgb))
+  );
+  transition: all 0.2s ease;
+  font-family: var(--font-sans, Arial, Helvetica, sans-serif);
+}
+
+@layer components {
+  .card {
+    @apply bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden transition-all duration-300;
+  }
+
+  .tab-active {
+    @apply border-b-2 border-indigo-500 font-semibold text-indigo-500 dark:text-indigo-400;
+  }
+
+  .team-logo {
+    @apply h-12 w-12 object-contain transition-transform duration-300;
+  }
+
+  .team-logo:hover {
+    transform: scale(1.1);
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "innings_data": [
+    {
+      "batters_analysis": [
+        {
+          "historical_stats": {
+            "runs": 3472,
+            "strike_rate": 132.57
+          },
+          "insight": "Performing at or above historical norms.",
+          "live_stats": {
+            "balls_faced": 13,
+            "boundaries": 3,
+            "runs": 18,
+            "strike_rate": 138.46153846153845
+          },
+          "name": "RG Sharma",
+          "recent_performance": 1.2
+        },
+        {
+          "historical_stats": {
+            "runs": 1089,
+            "strike_rate": 128.57
+          },
+          "insight": "Performing at or above historical norms.",
+          "live_stats": {
+            "balls_faced": 33,
+            "boundaries": 15,
+            "runs": 84,
+            "strike_rate": 254.54545454545453
+          },
+          "name": "Ishan Kishan",
+          "recent_performance": 1.8
+        },
+        {
+          "historical_stats": {
+            "runs": 1362,
+            "strike_rate": 142.02
+          },
+          "insight": "Performing below historical average.",
+          "live_stats": {
+            "balls_faced": 9,
+            "boundaries": 1,
+            "runs": 10,
+            "strike_rate": 111.11111111111111
+          },
+          "name": "HH Pandya",
+          "recent_performance": 0.2
+        },
+        {
+          "historical_stats": {
+            "runs": 1818,
+            "strike_rate": 136.59
+          },
+          "insight": "Performing at or above historical norms.",
+          "live_stats": {
+            "balls_faced": 4,
+            "boundaries": 1,
+            "runs": 6,
+            "strike_rate": 150.0
+          },
+          "name": "KA Pollard",
+          "recent_performance": 1.5
+        },
+        {
+          "historical_stats": {
+            "runs": 1737,
+            "strike_rate": 139.18
+          },
+          "insight": "Performing at or above historical norms.",
+          "live_stats": {
+            "balls_faced": 4,
+            "boundaries": 1,
+            "runs": 6,
+            "strike_rate": 150.0
+          },
+          "name": "SA Yadav",
+          "recent_performance": 1.5
+        },
+        {
+          "historical_stats": {
+            "runs": 28,
+            "strike_rate": 77.78
+          },
+          "insight": "Insufficient data for comparison.",
+          "live_stats": {
+            "balls_faced": 0,
+            "boundaries": 0,
+            "runs": 0,
+            "strike_rate": 0
+          },
+          "name": "JDS Neesham"
+        },
+        {
+          "historical_stats": {
+            "runs": 782,
+            "strike_rate": 127.57
+          },
+          "insight": "Insufficient data for comparison.",
+          "live_stats": {
+            "balls_faced": 0,
+            "boundaries": 0,
+            "runs": 0,
+            "strike_rate": 0
+          },
+          "name": "KH Pandya"
+        },
+        {
+          "historical_stats": {
+            "runs": 38,
+            "strike_rate": 77.55
+          },
+          "insight": "Insufficient data for comparison.",
+          "live_stats": {
+            "balls_faced": 0,
+            "boundaries": 0,
+            "runs": 0,
+            "strike_rate": 0
+          },
+          "name": "NM Coulter-Nile"
+        },
+        {
+          "historical_stats": {
+            "runs": 311,
+            "strike_rate": 100.0
+          },
+          "insight": "Insufficient data for comparison.",
+          "live_stats": {
+            "balls_faced": 0,
+            "boundaries": 0,
+            "runs": 0,
+            "strike_rate": 0
+          },
+          "name": "PP Chawla"
+        },
+        {
+          "historical_stats": {
+            "runs": 22,
+            "strike_rate": 91.67
+          },
+          "insight": "Insufficient data for comparison.",
+          "live_stats": {
+            "balls_faced": 0,
+            "boundaries": 0,
+            "runs": 0,
+            "strike_rate": 0
+          },
+          "name": "JJ Bumrah"
+        },
+        {
+          "historical_stats": {
+            "runs": 62,
+            "strike_rate": 126.53
+          },
+          "insight": "Insufficient data for comparison.",
+          "live_stats": {
+            "balls_faced": 0,
+            "boundaries": 0,
+            "runs": 0,
+            "strike_rate": 0
+          },
+          "name": "TA Boult"
+        }
+      ],
+      "batting_momentum": 53.95645523071289,
+      "batting_team": "Mumbai Indians",
+      "bowlers_analysis": [
+        {
+          "historical_stats": {
+            "economy": 0,
+            "wickets": 0
+          },
+          "insight": "No bowling data available.",
+          "live_stats": {
+            "economy": 0,
+            "overs": 0,
+            "runs_conceded": 0,
+            "wickets": 0
+          },
+          "name": "JJ Roy"
+        },
+        {
+          "historical_stats": {
+            "economy": 7.64,
+            "wickets": 6
+          },
+          "insight": "No bowling data available.",
+          "live_stats": {
+            "economy": 0,
+            "overs": 0,
+            "runs_conceded": 0,
+            "wickets": 0
+          },
+          "name": "Abhishek Sharma"
+        },
+        {
+          "historical_stats": {
+            "economy": 0,
+            "wickets": 0
+          },
+          "insight": "No bowling data available.",
+          "live_stats": {
+            "economy": 0,
+            "overs": 0,
+            "runs_conceded": 0,
+            "wickets": 0
+          },
+          "name": "MK Pandey"
+        },
+        {
+          "historical_stats": {
+            "economy": 6.65,
+            "wickets": 6
+          },
+          "insight": "Bowling economy is higher than historical average.",
+          "live_stats": {
+            "economy": 11.5,
+            "overs": 2.0,
+            "runs_conceded": 23,
+            "wickets": 0
+          },
+          "name": "Mohammad Nabi"
+        },
+        {
+          "historical_stats": {
+            "economy": 11.0,
+            "wickets": 1
+          },
+          "insight": "No bowling data available.",
+          "live_stats": {
+            "economy": 0,
+            "overs": 0,
+            "runs_conceded": 0,
+            "wickets": 0
+          },
+          "name": "Abdul Samad"
+        },
+        {
+          "historical_stats": {
+            "economy": 0,
+            "wickets": 0
+          },
+          "insight": "No bowling data available.",
+          "live_stats": {
+            "economy": 0,
+            "overs": 0,
+            "runs_conceded": 0,
+            "wickets": 0
+          },
+          "name": "PK Garg"
+        },
+        {
+          "historical_stats": {
+            "economy": 7.97,
+            "wickets": 38
+          },
+          "insight": "Bowling economy is higher than historical average.",
+          "live_stats": {
+            "economy": 13.6,
+            "overs": 2.5,
+            "runs_conceded": 34,
+            "wickets": 1
+          },
+          "name": "JO Holder"
+        },
+        {
+          "historical_stats": {
+            "economy": 6.7,
+            "wickets": 71
+          },
+          "insight": "Bowling economy is higher than historical average.",
+          "live_stats": {
+            "economy": 10.5,
+            "overs": 2.0,
+            "runs_conceded": 21,
+            "wickets": 1
+          },
+          "name": "Rashid Khan"
+        },
+        {
+          "historical_stats": {
+            "economy": 0,
+            "wickets": 0
+          },
+          "insight": "No bowling data available.",
+          "live_stats": {
+            "economy": 0,
+            "overs": 0,
+            "runs_conceded": 0,
+            "wickets": 0
+          },
+          "name": "WP Saha"
+        },
+        {
+          "historical_stats": {
+            "economy": 9.06,
+            "wickets": 33
+          },
+          "insight": "Bowling economy is higher than historical average.",
+          "live_stats": {
+            "economy": 18.0,
+            "overs": 1.0,
+            "runs_conceded": 18,
+            "wickets": 0
+          },
+          "name": "S Kaul"
+        },
+        {
+          "historical_stats": {
+            "economy": 9.1,
+            "wickets": 18
+          },
+          "insight": "Bowling economy is higher than historical average.",
+          "live_stats": {
+            "economy": 11.666666666666666,
+            "overs": 3.0,
+            "runs_conceded": 35,
+            "wickets": 1
+          },
+          "name": "Umran Malik"
+        }
+      ],
+      "bowling_momentum": 46.04354476928711,
+      "bowling_team": "Sunrisers Hyderabad",
+      "innings_number": 1,
+      "last_ball_details": {
+        "last_bowler": "Umran Malik",
+        "last_over": 10,
+        "non_striker": "KA Pollard",
+        "on_strike_batter": "SA Yadav"
+      },
+      "match_summary": {
+        "current_run_rate": 12.476190476190476,
+        "overs": 10.5,
+        "total_runs": 131,
+        "total_wickets": 3
+      },
+      "over_metrics": [
+        {
+          "Over": 1,
+          "Over_Run_Rate": 8.0,
+          "Over_Runs": 8.0,
+          "Valid_Balls": 6,
+          "Wickets": 0
+        },
+        {
+          "Over": 2,
+          "Over_Run_Rate": 18.0,
+          "Over_Runs": 18.0,
+          "Valid_Balls": 6,
+          "Wickets": 0
+        },
+        {
+          "Over": 3,
+          "Over_Run_Rate": 15.0,
+          "Over_Runs": 15.0,
+          "Valid_Balls": 6,
+          "Wickets": 0
+        },
+        {
+          "Over": 4,
+          "Over_Run_Rate": 18.857142857142858,
+          "Over_Runs": 22.0,
+          "Valid_Balls": 7,
+          "Wickets": 0
+        },
+        {
+          "Over": 5,
+          "Over_Run_Rate": 15.0,
+          "Over_Runs": 15.0,
+          "Valid_Balls": 6,
+          "Wickets": 0
+        },
+        {
+          "Over": 6,
+          "Over_Run_Rate": 5.0,
+          "Over_Runs": 5.0,
+          "Valid_Balls": 6,
+          "Wickets": 1
+        },
+        {
+          "Over": 7,
+          "Over_Run_Rate": 13.0,
+          "Over_Runs": 13.0,
+          "Valid_Balls": 6,
+          "Wickets": 0
+        },
+        {
+          "Over": 8,
+          "Over_Run_Rate": 16.0,
+          "Over_Runs": 16.0,
+          "Valid_Balls": 6,
+          "Wickets": 0
+        },
+        {
+          "Over": 9,
+          "Over_Run_Rate": 9.0,
+          "Over_Runs": 12.0,
+          "Valid_Balls": 8,
+          "Wickets": 1
+        },
+        {
+          "Over": 10,
+          "Over_Run_Rate": 7.0,
+          "Over_Runs": 7.0,
+          "Valid_Balls": 6,
+          "Wickets": 1
+        }
+      ],
+      "partnerships": [
+        {
+          "balls": 34,
+          "batsmen": [
+            "RG Sharma",
+            "Ishan Kishan"
+          ],
+          "run_rate": 14.117647058823529,
+          "runs": 80
+        },
+        {
+          "balls": 19,
+          "batsmen": [
+            "Ishan Kishan",
+            "HH Pandya"
+          ],
+          "run_rate": 10.421052631578949,
+          "runs": 33
+        },
+        {
+          "balls": 5,
+          "batsmen": [
+            "KA Pollard",
+            "Ishan Kishan"
+          ],
+          "run_rate": 13.200000000000001,
+          "runs": 11
+        },
+        {
+          "balls": 5,
+          "batsmen": [
+            "SA Yadav",
+            "KA Pollard"
+          ],
+          "run_rate": 8.399999999999999,
+          "runs": 7
+        }
+      ]
+    }
+  ],
+  "match_prediction": null,
+  "raw_recommendations": "Batting Team (Mumbai Indians) Recommendations:\n\n1. Topic: Maintaining Momentum\n   Actions: Encourage Ishan Kishan to continue his aggressive batting style as it is yielding a high strike rate (SR).\n   Purpose: To maintain the high run rate and put pressure on the bowling side.\n\n2. Topic: Partnership Building\n   Actions: Advise SA Yadav and KA Pollard to focus on building a strong partnership by rotating the strike and hitting occasional boundaries.\n   Purpose: To stabilize the innings and keep the scoreboard ticking.\n\n3. Topic: Utilizing Set Batsman\n   Actions: Encourage Ishan Kishan to take more strike as he has been the most effective batsman so far.\n   Purpose: To capitalize on his current form and maximize scoring.\n\n4. Topic: Improving Strike Rate\n   Actions: Advise HH Pandya to be more aggressive in his approach as his current strike rate is low.\n   Purpose: To increase the overall run rate and scoring potential.\n\n5. Topic: Targeting Weak Bowlers\n   Actions: Identify weak bowlers in the opposition and target them for scoring.\n   Purpose: To exploit any vulnerabilities in the bowling lineup and score more runs.\n\nBowling Team (Sunrisers Hyderabad) Recommendations:\n\n1. Topic: Disrupting Partnership\n   Actions: Rotate bowlers frequently to disrupt the rhythm of the current partnership.\n   Purpose: To make it more difficult for the batsmen to settle and score runs.\n\n2. Topic: Targeting Aggressive Batsman\n   Actions: Develop a specific plan for Ishan Kishan, such as bowling wide outside off stump or short-pitched deliveries.\n   Purpose: To contain his scoring and increase chances of getting him out.\n\n3. Topic: Maintaining Pressure\n   Actions: Encourage bowlers to maintain a tight line and length, restricting easy scoring opportunities.\n   Purpose: To increase the pressure on batsmen and induce mistakes.\n\n4. Topic: Exploiting Weaknesses\n   Actions: Analyze the weaknesses of the incoming batsmen and tailor bowling strategies accordingly.\n   Purpose: To increase chances of taking wickets and slowing down the run rate.\n\n5. Topic: Utilizing Fielding\n   Actions: Set aggressive fielding positions to cut off boundaries and force batsmen to take risky singles.\n   Purpose: To create opportunities for run-outs and put additional pressure on the batsmen.\n"
+}
