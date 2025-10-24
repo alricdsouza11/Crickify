@@ -2,6 +2,23 @@
 
 Crickify is a comprehensive cricket analytics platform that combines machine learning models for match momentum prediction with a modern web interface for real-time cricket match analysis.
 
+![Cricket Match Analysis Dashboard](screenshots/dashboard.jpg)
+*Main dashboard showing live match between Mumbai Indians and Sunrisers Hyderabad*
+
+## Project Screenshots
+
+### Live Match Analysis
+![Live Match Analysis](screenshots/live-match.jpg)
+*Real-time match analysis with momentum prediction, run rate, and performance metrics*
+
+### Key Features Visible in Screenshots:
+- Live score tracking with detailed innings information
+- Team-wise momentum analysis (Batting: 49.3, Bowling: 50.7)
+- Current run rate and performance metrics
+- Top performers highlight (batsmen and bowlers)
+- Next ball prediction probabilities
+- Detailed match insights and analytics
+
 ## Project Structure
 
 The project is organized into three main components:
@@ -37,6 +54,11 @@ Modern web interface built with Next.js:
 - **Real-time Updates**: Live score updates and momentum shifts
 - **Player Statistics**: Detailed batting and bowling statistics with performance metrics
 
+## System Architecture
+
+![System Architecture](screenshots/architecture.png)
+*High-level system architecture diagram showing data flow and component interaction*
+
 ## Technology Stack
 
 - **Backend**:
@@ -53,6 +75,9 @@ Modern web interface built with Next.js:
   - Framer Motion for animations
   - Recharts for data visualization
   - Radix UI components
+
+![Tech Stack](screenshots/tech-stack.png)
+*Technology stack overview*
 
 ## Setup Instructions
 
